@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/venkatvamshi/product-preview-card)
-- Live Site URL: [Add live site URL here](todo)
+- Solution URL: https://github.com/venkatvamshi/product-preview-card
+- Live Site URL: https://venkatvamshi.github.io/product-preview-card/
 
 ## My process
 
